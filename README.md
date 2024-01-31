@@ -1,5 +1,3 @@
-# chandiniraneesh.github.io
-Portfolio
 # Personal-portfolio
 
 ## Description
